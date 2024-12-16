@@ -1,0 +1,41 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "16/12/2024 13:53:40",
+      "sequence" : 900008,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "table_name" : "FUNCAO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "",
+      "guid" : "5191be1e-8fdf-42f0-b054-ddc444f79a3c"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "9e33d943d7f6",
+      "os_user" : "root",
+      "tasy_user" : "lpfreitas"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_FUNCAO",
+      "data_type" : "NUMBER",
+      "new_value" : 99731,
+      "old_value" : 99731
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_FUNCAO",
+      "data_type" : "NUMBER",
+      "new_value" : 99731,
+      "old_value" : 99731
+    }, {
+      "column_name" : "DS_ROTA",
+      "data_type" : "VARCHAR2",
+      "new_value" : "/cmdkltdftable",
+      "old_value" : "/cmdkltdftable"
+    } ]
+  } ]
+}
